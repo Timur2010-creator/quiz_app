@@ -51,7 +51,7 @@ Quiz App lets you challenge yourself with trivia questions from many categories.
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/quiz_app.git
+git clone https://github.com/Timur2010-creator/quiz_app.git
 cd quiz_app
 flutter pub get
 flutter run
